@@ -1,0 +1,16 @@
+{
+  "name": "intro-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.1",
+    "node-notifier": "^10.0.0"
+  }
+}
